@@ -1,0 +1,14 @@
+{
+  "name": "vantage-user",
+  "version": "0.0.1",
+  "description": "vantage user login module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vantage"
+  ],
+  "author": "Qiaosen Huang",
+  "license": "MIT"
+}
