@@ -1,6 +1,6 @@
 {
   "name": "vantage-user",
-  "version": "0.0.1",
+  "version": "0.0.1-dev",
   "description": "vantage user login module",
   "main": "index.js",
   "scripts": {
@@ -10,5 +10,13 @@
     "vantage"
   ],
   "author": "Qiaosen Huang",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joesonw/node-vantage-user.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joesonw/node-vantage-user/issues"
+  },
+  "homepage": "https://github.com/joesonw/node-vantage-user#readme"
 }
